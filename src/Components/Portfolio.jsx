@@ -31,10 +31,11 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My first prject: Airbnb clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      `"
+      A full-featured Airbnb clone showcasing property listings, bookings, user authentication, reviews, and a responsive design, built with react, Node.js, and MongoDB."`,
+    url: "https://github.com/Tejas08wi/project1",
   },
   {
     title: "Web Development for Beginners",
@@ -45,8 +46,8 @@ const projectList = [
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Canva. Includes my experience and design abilities.",
+    url: "https://drive.google.com/file/d/1KeNMBLHgne18RkRJhK-I_Cz7Hnkkzvt0/view?usp=drivesdk",
   },
   {
     title: "GitHub Codespaces and github.dev",
